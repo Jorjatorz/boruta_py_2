@@ -1,4 +1,4 @@
-# boruta_py 2.0#
+# boruta_py 2.0 #
 
 [![License](https://img.shields.io/github/license/scikit-learn-contrib/boruta_py)](https://github.com/scikit-learn-contrib/boruta_py/blob/master/LICENSE)
 [![PyPI version](https://badge.fury.io/py/Boruta.svg)](https://badge.fury.io/py/Boruta)
