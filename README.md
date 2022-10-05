@@ -1,4 +1,4 @@
-# boruta_py #
+# boruta_py 2.0#
 
 [![License](https://img.shields.io/github/license/scikit-learn-contrib/boruta_py)](https://github.com/scikit-learn-contrib/boruta_py/blob/master/LICENSE)
 [![PyPI version](https://badge.fury.io/py/Boruta.svg)](https://badge.fury.io/py/Boruta)
@@ -12,6 +12,12 @@
 ❗The objective of the fork is to make small updates to the package such that the last updates can be used along with tools like Poetry.
 
 ❓If the fork has enough attention I will upload it to PyPI.
+
+✅ Problems fixed:
+```text
+- Invalid PEP 440 version: '{{VERSION_PLACEHOLDER}}'
+```
+---
 
 This project hosts Python implementations of the [Boruta all-relevant feature selection method](https://www.jstatsoft.org/article/view/v036i11).
 
