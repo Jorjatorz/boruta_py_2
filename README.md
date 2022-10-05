@@ -4,6 +4,13 @@
 [![PyPI version](https://badge.fury.io/py/Boruta.svg)](https://badge.fury.io/py/Boruta)
 [![Anaconda-Server Badge](https://anaconda.org/conda-forge/boruta_py/badges/version.svg)](https://anaconda.org/conda-forge/boruta_py)
 
+
+❗This is a forked project from [scikit-learn-contrib/boruta_py](https://github.com/scikit-learn-contrib/boruta_py).
+
+❗The original library is not updated in PyPi and also fails to be installed with tools like Poetry.
+
+❗The objective of the fork is to make small updates to the package such that the last updates can be used along with tools like Poetry.
+
 This project hosts Python implementations of the [Boruta all-relevant feature selection method](https://www.jstatsoft.org/article/view/v036i11).
 
 [Related blog post](https://danielhomola.com/feature%20selection/phd/borutapy-an-all-relevant-feature-selection-method/)
