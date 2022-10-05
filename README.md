@@ -16,6 +16,7 @@
 ✅ Problems fixed:
 ```text
 - Invalid PEP 440 version: '{{VERSION_PLACEHOLDER}}'
+- num_boost_round should be greater than zero.
 ```
 ---
 
