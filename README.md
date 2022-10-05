@@ -7,9 +7,11 @@
 
 ❗This is a forked project from [scikit-learn-contrib/boruta_py](https://github.com/scikit-learn-contrib/boruta_py).
 
-❗The original library is not updated in PyPi and also fails to be installed with tools like Poetry.
+❗The original library is not updated in PyPI and also fails to be installed with tools like Poetry.
 
 ❗The objective of the fork is to make small updates to the package such that the last updates can be used along with tools like Poetry.
+
+❓If the fork has enough attention I will upload it to PyPI.
 
 This project hosts Python implementations of the [Boruta all-relevant feature selection method](https://www.jstatsoft.org/article/view/v036i11).
 
